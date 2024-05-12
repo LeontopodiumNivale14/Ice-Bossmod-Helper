@@ -148,6 +148,6 @@ class UITest
                 }
             }
         }
-        return "D:\\installed\\SquareEnix\\FINAL FANTASY XIV - A Realm Reborn\\game\\sqpack";
+        return "C:\\M.2 Steam Library\\steamapps\\common\\FINAL FANTASY XIV Online\\game\\sqpack";
     }
 }
